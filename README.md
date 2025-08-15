@@ -4,7 +4,7 @@ Bring a little magic into the real world!
 This Python project creates the illusion of invisibility using **OpenCV**, **color detection**, and some simple image processing tricks.
 
 ![Demo GIF](demo.gif)  
-*(Replace this with your actual demo GIF or screenshot)*
+*(https://drive.google.com/file/d/1DCQILdlpzfXoNrhw4iZyVKYoKJp2pu1q/view?usp=drive_link)*
 
 ---
 
